@@ -11,3 +11,4 @@ The person whose health reaches 0 first will lose.
 So Yeah, that is my first game on python. 
 
 
+![Screenshot 2024-01-07 203903](https://github.com/Sawansunar56/Space-Vader/assets/62794662/3f0f1766-d6f7-491c-a09f-3583138c33cb)
